@@ -1,16 +1,48 @@
-<h1 align="center">Hi 👋, I'm KAMAR</h1>
-<h3 align="center">Cybersecurity Enthusiast | Cloud Security & Threat Detection | Network Forensics | Always Learning & Building</h3>
+<div align="center">
+  <img height="201" src="https://i.postimg.cc/9Qx8PRvw/Blue-Matrix-rain.gif"  />
+</div>
 
-- 🌱 I’m currently learning **cloud security, advanced threat detection techniques, and automation scripting in Python to enhance security workflows.**
+###
 
-- 👯 I’m looking to collaborate on **cybersecurity projects, open-source threat detection tools, and automation scripts for security workflows**
+<div align="center">
+  <a href="www.linkedin.com/in/kamar-joefield-3a22a631a" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+</div>
 
-- ⚡ Fun fact **I started in management and sales before transitioning into cybersecurity, and I love blending technical skills with strategic problem-solving!**
+###
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+<h2 align="center">Aspiring Cybersecurity Professional | Aspiring Cybersecurity Professional | Security Automation & Cloud Enthusiast</h2>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+###
+
+<h3 align="left">👩‍💻  About Me</h3>
+
+###
+
+<p align="left">- 👯 I’m looking to collaborate on cybersecurity projects, open-source threat detection tools, and automation scripts for security workflows<br>- 🌱 I’m currently learning cloud security, cloud automation, advanced threat detection techniques, and automation scripting in Python to enhance security workflows</p>
+
+###
+
+<h3 align="left">🛠 Languages</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
+</div>
+
+###
+
+<h3 align="left">🚀 Technologies and Frameworks</h3>
+
+###
+
+<h4 align="left">🛡️ Security Tools: Cortex XDR, Palo Alto NGFW, Cortex XSOAR, Wireshark, Nmap, tcpdump<br>☁️ Technologies/Frameworks: Azure, AWS, LLM Security, Linux</h4>
+
+###
 
